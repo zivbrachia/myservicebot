@@ -1,0 +1,13 @@
+{
+    "default_text": "סליחה, לא הבנתי",
+    "default_number": "לא זיהיתי את זה כמספר",
+    "default_confirm": "סליחה, לא הבנתי. כן או לא?",
+    "list_or": " או ",
+    "list_or_more": ", או ",
+    "confirm_yes": "כן",
+    "confirm_no": "לא",
+    "default_choice": "סליחה, לא הבנתי. יש לבחור מהרשימה",
+    "default_time": "לא הבנתי את הזמן. אני מבין את הפורמט (MM/DD/YYYY HH:MM:SS)",
+    "default_file": "לא קיבלתי את הקובץ, תשלח שוב",
+    "default_error": "סליחה, משהו פעל בצורה לא תקינה ויש להתחיל מחדש"
+}   
